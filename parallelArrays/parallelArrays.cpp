@@ -6,6 +6,8 @@
 
 using namespace std;
 
+// Generate random number between 0 / 1 and ask Capital / State
+
 // Sends title and clears screen
 void titleAndClear() {
 	system("CLS");
